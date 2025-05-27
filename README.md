@@ -1,6 +1,6 @@
 ## Question 1
 
-Dùng python, đọc từng video và xuất ra các outputs sau:
+Dùng python, đọc [video](https://www.youtube.com/watch?v=qbcYQSezLuY) và xuất ra các outputs sau:
 
 - [ ] toạ độ bắt đầu của bi
 - [ ] toạ độ kết thúc của bi
@@ -19,7 +19,7 @@ Dùng python, đọc từng video và xuất ra các outputs sau:
 
 ## Question 2
 
-Dùng Python, đọc từng video và xuất ra toạ độ của bi theo thời gian, interval 100ms
+Dùng Python, đọc [video](https://www.youtube.com/watch?v=qbcYQSezLuY) và xuất ra toạ độ của bi theo thời gian, interval 100ms
 ```ts
   type Output = Array<{
     timeMs: number // 0, 100, 200, etc.
